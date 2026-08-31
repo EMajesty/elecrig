@@ -92,11 +92,11 @@ Do not imply that a third-party product is an official Elecrig project release.
 
 ## Project links
 
-Project site: https://electri.cc/
+Project site: 
 
-CAD workspace: _add public Onshape document link_
+CAD workspace: 
 
-Printable releases: _add Printables / MakerWorld links_
+Printable releases: 
 
 ## Contributing
 
