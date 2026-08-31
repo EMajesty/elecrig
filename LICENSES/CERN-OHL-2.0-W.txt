@@ -1,12 +1,1 @@
-This file is intentionally a placeholder in this generated starter archive.
-
-Before the first public release, replace it with the canonical, unmodified
-license text by running:
-
-    ./scripts/fetch-licenses.sh
-
-Canonical CERN OHL source:
-https://cern-ohl.web.cern.ch/
-
-SPDX identifier:
-CERN-OHL-2.0-W
+<!doctype html><html><head><meta http-equiv=refresh content="0; url=https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt"><link rel=canonical href=https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt></head></html>
