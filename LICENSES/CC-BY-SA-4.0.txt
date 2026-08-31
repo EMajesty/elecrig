@@ -1,0 +1,12 @@
+This file is intentionally a placeholder in this generated starter archive.
+
+Before the first public release, replace it with the canonical, unmodified
+license text by running:
+
+    ./scripts/fetch-licenses.sh
+
+Canonical Creative Commons source:
+https://creativecommons.org/licenses/by-sa/4.0/
+
+SPDX identifier:
+CC-BY-SA-4.0

@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Elecrig specification discussion
+    url: https://github.com/electricmajesty/elecrig/discussions
+    about: Discuss interface ideas before proposing breaking specification changes.

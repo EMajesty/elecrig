@@ -1,0 +1,13 @@
+# CAD exports / temporary files
+*.bak
+*.tmp
+*.autosave
+~$*
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Keep release CAD/mesh files intentionally tracked.
