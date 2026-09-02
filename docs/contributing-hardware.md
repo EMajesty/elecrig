@@ -55,6 +55,21 @@ Rubber feet may be removed when they interfere with the adapter. Keep the origin
 
 Avoid permanent modifications to the device where a reversible mounting method will work.
 
+### Device adapter rail mounting
+
+For devices spanning multiple rails, two mounting positions are available on each side:
+
+| Rail span | Outer positions | Inner positions |
+| --- | ---: | ---: |
+| 2 rails | 100 mm apart | 60 mm apart |
+| 3 rails | 180 mm apart | 140 mm apart |
+
+Where practical, device adapters should use the **outer positions on the left** and the **inner positions on the right**.
+
+This asymmetric layout reduces the space needed between neighboring devices.
+
+This is a recommended convention, not a compatibility requirement. Other mounting arrangements may be used when better suited to the device or adapter.
+
 ## Pull requests
 
 Keep pull requests focused.
