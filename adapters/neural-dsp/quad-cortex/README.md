@@ -12,7 +12,7 @@ ER80 mount for the Neural DSP Quad Cortex.
 ## Hardware
 
 **Device attachment:** Original bottom-cover screws  
-**Rubber feet:** Remove / Keep
+**Rubber feet:** Remove
 
 **Additional device hardware:** None
 
