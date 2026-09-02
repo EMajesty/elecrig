@@ -37,3 +37,9 @@ Elecrig is currently experimental. ER80 dimensions may still change before v1.0.
 Open hardware under **CERN-OHL-2.0-W**.
 
 See [`docs/licensing.md`](docs/licensing.md) for details.
+
+# WHERE ARE THE DOWNLOADS???
+
+Here:
+
+[Coming soon]
