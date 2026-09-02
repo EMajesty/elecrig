@@ -1,7 +1,5 @@
 # Elecrig
 
-**Open modular mounting hardware for music gear.**
-
 Elecrig is an open hardware system for building pedalboards and other music rigs
 from standard 20-series aluminium extrusion.
 
@@ -18,10 +16,7 @@ The first interface, **Elecrig Rail 80 (ER80)**, uses parallel rails on an
 - I/O panels
 - stands, cases and other accessories
 
-The idea is simple: **design against the interface, not against one specific
-pedalboard.**
-
-## Start here
+## Make stuff
 
 **Building a board?**  
 See [`reference-builds/`](reference-builds/).
