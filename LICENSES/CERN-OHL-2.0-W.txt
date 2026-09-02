@@ -1,1 +1,8 @@
-<!doctype html><html><head><meta http-equiv=refresh content="0; url=https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt"><link rel=canonical href=https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt></head></html>
+PLACEHOLDER
+
+Replace this file with the canonical, unmodified CERN-OHL-2.0-W licence text
+before the first public release.
+
+Run:
+
+    ./scripts/fetch-licenses.sh

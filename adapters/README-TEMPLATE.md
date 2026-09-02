@@ -1,4 +1,4 @@
-# Device adapter template
+# Adapter name
 
 **SPDX-License-Identifier:** CERN-OHL-2.0-W
 
@@ -16,5 +16,5 @@ Author:
 
 ## Notes
 
-Describe attachment points, orientation, print/manufacturing notes, and any
-known compatibility limitations here.
+Describe orientation, attachment points, print/manufacturing notes, and known
+compatibility limitations here.
