@@ -47,6 +47,14 @@ Author:
 - Label experimental extensions clearly.
 - Do not silently redefine a published interface.
 
+## Adapters
+
+Where possible, attach adapters using the device's existing bottom-cover screws. This avoids modifying the device and makes the mount easy to remove.
+
+Rubber feet may be removed when they interfere with the adapter. Keep the original hardware so the device can be returned to its original configuration.
+
+Avoid permanent modifications to the device where a reversible mounting method will work.
+
 ## Pull requests
 
 Keep pull requests focused.
