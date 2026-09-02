@@ -1,40 +1,53 @@
-# Neural DSP Quad Cortex
+# Cioks Crux
 
-ER80 mount for the Neural DSP Quad Cortex.
+Elecrig mount for the Cioks Crux.
+
+![Mounted device](images/mounted.jpg)
 
 ## Compatibility
 
-- Neural DSP Quad Cortex
-- ER80
-- 3-rail span
-- Physically tested
+- **Device:** Cioks Crux
+- **Interface:** ER80
+- **Rail span:** [1 / 2 / 3 / other]
+- **Tested:** [Yes / No]
 
 ## Hardware
 
-**Device attachment:** Original bottom-cover screws  
-**Rubber feet:** Remove
+**Device attachment:** [Original screws / Replacement screws / Other]  
+**Rubber feet:** [Keep / Remove / N/A]
 
-**Additional device hardware:** None
+### Additional device hardware
 
-**Rail attachment:**
+- [e.g. 4 × M3×12 screws]
+- None
 
-- 4 × M5×10 bolts
-- 4 × M5 hammer nuts
+### Rail hardware
+
+- [e.g. 2 × M5×10 bolts]
+- [e.g. 2 × M5 hammer nuts]
 
 ## Files
 
-- `cad/` — STEP source
-- `print/` — ready-to-print 3MF
+- `cad/` — STEP files
+- `print/` — ready-to-print 3MF files
+- `images/` — reference and installation photos
 
 ## Printing
 
-Material: 
-Supports: 
+**Material:** [e.g. PETG]  
+**Supports:** [Yes / No]
 
+[Only add additional print notes when necessary.]
+
+## Installation
+
+[Brief device-specific installation instructions. Mention screw replacement,
+feet removal, orientation, or anything else that isn't obvious.]
 
 ## CAD
 
-Onshape: 
+[Onshape link, if available]
 
 ## Notes
 
+[Optional compatibility notes, limitations, alternate models, etc.]

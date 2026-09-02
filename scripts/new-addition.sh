@@ -34,6 +34,16 @@ slugify() {
   printf '%s' "$value"
 }
 
+documentation_name() {
+  local value=$1
+
+  if [[ $value == *[[:upper:]]* ]]; then
+    printf '%s' "$value"
+  else
+    printf '%s%s' "${value:0:1}" "${value:1}" | sed -E 's/^([[:lower:]])/\U\1/'
+  fi
+}
+
 select_option() {
   local prompt=$1
   shift
@@ -117,10 +127,12 @@ render_readme() {
   ' "$template" > "$output"
 }
 
-select_option 'What are you adding?' accessory adapter
+accessory_option='accessory (hinge, raiser, side panel...)'
+adapter_option='adapter (pedal, synth, power supply...)'
+select_option 'What are you adding?' "$accessory_option" "$adapter_option"
 addition_type=$REPLY
 
-if [[ $addition_type == accessory ]]; then
+if [[ $addition_type == "$accessory_option" ]]; then
   printf 'Accessory scaffolding is not implemented yet. No files were created.\n'
   exit 0
 fi
@@ -145,16 +157,18 @@ select_option 'Select a manufacturer:' "${manufacturer_options[@]}"
 
 if [[ $REPLY == new ]]; then
   prompt_nonempty 'Manufacturer name'
-  manufacturer_name=$REPLY
-  manufacturer_slug=$(slugify "$manufacturer_name")
+  manufacturer_input=$REPLY
+  manufacturer_slug=$(slugify "$manufacturer_input")
+  manufacturer_name=$(documentation_name "$manufacturer_input")
 else
   manufacturer_slug=$REPLY
-  manufacturer_name=$REPLY
+  manufacturer_name=$(documentation_name "${manufacturer_slug//-/ }")
 fi
 
 prompt_nonempty 'Device name'
-device_name=$REPLY
-device_slug=$(slugify "$device_name")
+device_input=$REPLY
+device_slug=$(slugify "$device_input")
+device_name=$(documentation_name "$device_input")
 adapter_dir="$category_dir/$manufacturer_slug/$device_slug"
 readme_template="$REPO_ROOT/adapters/README-TEMPLATE.md"
 
