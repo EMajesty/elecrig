@@ -1,4 +1,4 @@
-# {{DEVICE_NAME}}
+# {{MANUFACTURER}} {{DEVICE_NAME}}
 
 Elecrig mount for the {{MANUFACTURER}} {{DEVICE_NAME}}.
 
@@ -6,7 +6,7 @@ Elecrig mount for the {{MANUFACTURER}} {{DEVICE_NAME}}.
 
 ## Compatibility
 
-- **Device:** {{MANUFACTURER_AND_MODEL}}
+- **Device:** {{MANUFACTURER}} {{DEVICE_NAME}}
 - **Interface:** ER80
 - **Rail span:** [1 / 2 / 3 / other]
 - **Tested:** [Yes / No]

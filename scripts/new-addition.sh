@@ -102,8 +102,7 @@ render_readme() {
 
   awk \
     -v manufacturer="$manufacturer" \
-    -v device="$device" \
-    -v manufacturer_and_model="$manufacturer $device" '
+    -v device="$device" '
     function replace_literal(value, token, replacement, position) {
       while ((position = index(value, token)) != 0) {
         value = substr(value, 1, position - 1) replacement substr(value, position + length(token))
@@ -111,8 +110,7 @@ render_readme() {
       return value
     }
     {
-      line = replace_literal($0, "{{MANUFACTURER_AND_MODEL}}", manufacturer_and_model)
-      line = replace_literal(line, "{{MANUFACTURER}}", manufacturer)
+      line = replace_literal($0, "{{MANUFACTURER}}", manufacturer)
       line = replace_literal(line, "{{DEVICE_NAME}}", device)
       print line
     }
