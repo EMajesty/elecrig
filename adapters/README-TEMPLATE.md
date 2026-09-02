@@ -1,20 +1,53 @@
-# Adapter name
+# {{DEVICE_NAME}}
 
-**SPDX-License-Identifier:** CERN-OHL-2.0-W
+Elecrig mount for the {{MANUFACTURER}} {{DEVICE_NAME}}.
 
-Manufacturer:  
-Device / family:  
-Tested models:  
-Elecrig interface: ER80  
-Specification version:  
-Rail span:  
-Required hardware:  
-OEM screws reused:  
-Manufacturing method:  
-Physical fit verified: no  
-Author:  
+![Mounted device](images/mounted.jpg)
+
+## Compatibility
+
+- **Device:** {{MANUFACTURER_AND_MODEL}}
+- **Interface:** ER80
+- **Rail span:** [1 / 2 / 3 / other]
+- **Tested:** [Yes / No]
+
+## Hardware
+
+**Device attachment:** [Original screws / Replacement screws / Other]  
+**Rubber feet:** [Keep / Remove / N/A]
+
+### Additional device hardware
+
+- [e.g. 4 × M3×12 screws]
+- None
+
+### Rail hardware
+
+- [e.g. 2 × M5×10 bolts]
+- [e.g. 2 × M5 hammer nuts]
+
+## Files
+
+- `cad/` — STEP files
+- `print/` — ready-to-print 3MF files
+- `images/` — reference and installation photos
+
+## Printing
+
+**Material:** [e.g. PETG]  
+**Supports:** [Yes / No]
+
+[Only add additional print notes when necessary.]
+
+## Installation
+
+[Brief device-specific installation instructions. Mention screw replacement,
+feet removal, orientation, or anything else that isn't obvious.]
+
+## CAD
+
+[Onshape link, if available]
 
 ## Notes
 
-Describe orientation, attachment points, print/manufacturing notes, and known
-compatibility limitations here.
+[Optional compatibility notes, limitations, alternate models, etc.]
