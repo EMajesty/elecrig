@@ -8,4 +8,3 @@ Planned templates include:
 - generic rail accessory blank
 - side/end accessory blank
 - tier support blank
-- PSU bracket blank
