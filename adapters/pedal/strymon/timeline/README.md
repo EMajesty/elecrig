@@ -1,29 +1,30 @@
-# Neural DSP Quad Cortex
+# Strymon Timeline
 
-Elecrig mount for the Neural DSP Quad Cortex.
+Elecrig mount for the Strymon Timeline.
 
 ![Mounted device](images/mounted.jpg)
 
 ## Compatibility
 
-- **Device:** Neural DSP Quad Cortex
+- **Device:** Strymon Timeline
 - **Interface:** ER80
-- **Rail span:** 3
-- **Tested:** Yes
+- **Rail span:** [1 / 2 / 3 / other]
+- **Tested:** [Yes / No]
 
 ## Hardware
 
-**Device attachment:** Original bottom-cover screws  
+**Device attachment:** [Original screws / Replacement screws / Other]  
 **Rubber feet:** [Keep / Remove / N/A]
 
 ### Additional device hardware
 
+- [e.g. 4 × M3×12 screws]
 - None
 
 ### Rail hardware
 
-- 4 × M5×10 bolts
-- 4 × M5 hammer nuts
+- [e.g. 2 × M5×10 bolts]
+- [e.g. 2 × M5 hammer nuts]
 
 ## Files
 

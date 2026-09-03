@@ -176,6 +176,7 @@ readme_template="$REPO_ROOT/adapters/README-TEMPLATE.md"
 [[ -f $readme_template ]] || die "README template not found: $readme_template"
 
 mkdir -p "$adapter_dir/cad" "$adapter_dir/print" "$adapter_dir/images"
+touch "$adapter_dir/cad/.gitkeep" "$adapter_dir/print/.gitkeep" "$adapter_dir/images/.gitkeep"
 render_readme "$readme_template" "$adapter_dir/README.md" "$manufacturer_name" "$device_name"
 
 printf 'Created %s\n' "${adapter_dir#"$REPO_ROOT/"}"
