@@ -8,23 +8,22 @@ Elecrig mount for the Cioks Crux.
 
 - **Device:** Cioks Crux
 - **Interface:** ER80
-- **Rail span:** [1 / 2 / 3 / other]
-- **Tested:** [Yes / No]
+- **Rail span:** 2
+- **Tested:** Yes
 
 ## Hardware
 
-**Device attachment:** [Original screws / Replacement screws / Other]  
-**Rubber feet:** [Keep / Remove / N/A]
+**Device attachment:** Additional screws
+**Rubber feet:** N/A
 
 ### Additional device hardware
 
-- [e.g. 4 × M3×12 screws]
-- None
+- 2 × M4×6 countersunk bolts
 
 ### Rail hardware
 
-- [e.g. 2 × M5×10 bolts]
-- [e.g. 2 × M5 hammer nuts]
+- 2 × M5×10 bolts
+- 2 × M5 hammer nuts
 
 ## Files
 
@@ -34,20 +33,14 @@ Elecrig mount for the Cioks Crux.
 
 ## Printing
 
-**Material:** [e.g. PETG]  
-**Supports:** [Yes / No]
+**Material:**   
+**Supports:** 
 
-[Only add additional print notes when necessary.]
 
 ## Installation
 
-[Brief device-specific installation instructions. Mention screw replacement,
-feet removal, orientation, or anything else that isn't obvious.]
+Mounts vertically.
 
 ## CAD
 
 [Onshape link, if available]
-
-## Notes
-
-[Optional compatibility notes, limitations, alternate models, etc.]

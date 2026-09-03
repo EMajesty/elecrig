@@ -8,23 +8,22 @@ Elecrig mount for the Cioks DC7.
 
 - **Device:** Cioks DC7
 - **Interface:** ER80
-- **Rail span:** [1 / 2 / 3 / other]
-- **Tested:** [Yes / No]
+- **Rail span:** 2
+- **Tested:** Yes
 
 ## Hardware
 
-**Device attachment:** [Original screws / Replacement screws / Other]  
-**Rubber feet:** [Keep / Remove / N/A]
+**Device attachment:** Additional bolts  
+**Rubber feet:** N/A
 
 ### Additional device hardware
 
-- [e.g. 4 × M3×12 screws]
-- None
+- 3 × M4×6 bolts
 
 ### Rail hardware
 
-- [e.g. 2 × M5×10 bolts]
-- [e.g. 2 × M5 hammer nuts]
+- 4 × M5×10 bolts
+- 4 × M5 hammer nuts
 
 ## Files
 
@@ -34,20 +33,13 @@ Elecrig mount for the Cioks DC7.
 
 ## Printing
 
-**Material:** [e.g. PETG]  
-**Supports:** [Yes / No]
-
-[Only add additional print notes when necessary.]
+**Material:**  
+**Supports:**
 
 ## Installation
 
-[Brief device-specific installation instructions. Mention screw replacement,
-feet removal, orientation, or anything else that isn't obvious.]
+Mounts horizontally.
 
 ## CAD
 
 [Onshape link, if available]
-
-## Notes
-
-[Optional compatibility notes, limitations, alternate models, etc.]
