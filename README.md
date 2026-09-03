@@ -23,7 +23,8 @@ See [`reference-builds/`](reference-builds/).
 
 **Designing a pedal mount or accessory?**  
 Start with [`cad/templates/`](cad/templates/) and read the
-[ER80 specification](spec/ER80.md).
+[ER80 specification](spec/ER80.md). Use [`scripts/new-addition.sh`](scripts/new-addition.sh)
+to scaffold a new device adapter.
 
 **Want to contribute?**  
 See [`CONTRIBUTING.md`](CONTRIBUTING.md).
