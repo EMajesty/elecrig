@@ -9,10 +9,10 @@ The first interface, **Elecrig Rail 80 (ER80)**, uses parallel rails on an 80 mm
 - pedalboards in different sizes
 - pedal and device mounts
 - upper tiers
-- power-supply mounts
 - cable management
 - I/O panels
 - stands, cases and other accessories
+- whatever you can think of
 
 ## Make stuff
 
@@ -27,7 +27,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## Project status
 
-Elecrig is currently experimental. ER80 dimensions may still change before v1.0.
+Elecrig is currently experimental.
 
 ## License
 
