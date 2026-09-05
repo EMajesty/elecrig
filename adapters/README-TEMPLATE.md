@@ -23,8 +23,8 @@ Elecrig mount for the {{MANUFACTURER}} {{DEVICE_NAME}}.
 
 ### Rail hardware
 
-- [e.g. 2 × M5×10 bolts]
-- [e.g. 2 × M5 hammer nuts]
+- [e.g. 4 × M5×10 bolts]
+- [e.g. 4 × M5 hammer nuts]
 
 ## Files
 

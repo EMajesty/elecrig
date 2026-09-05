@@ -8,23 +8,22 @@ Elecrig mount for the Eventide Space.
 
 - **Device:** Eventide Space
 - **Interface:** ER80
-- **Rail span:** [1 / 2 / 3 / other]
-- **Tested:** [Yes / No]
+- **Rail span:** 2
+- **Tested:** Yes
 
 ## Hardware
 
-**Device attachment:** [Original screws / Replacement screws / Other]  
-**Rubber feet:** [Keep / Remove / N/A]
+**Device attachment:** Original screws
+**Rubber feet:** Keep
 
 ### Additional device hardware
 
-- [e.g. 4 × M3×12 screws]
 - None
 
 ### Rail hardware
 
-- [e.g. 2 × M5×10 bolts]
-- [e.g. 2 × M5 hammer nuts]
+- 4 × M5×10 bolts
+- 4 × M5 hammer nuts
 
 ## Files
 
@@ -34,20 +33,13 @@ Elecrig mount for the Eventide Space.
 
 ## Printing
 
-**Material:** [e.g. PETG]  
-**Supports:** [Yes / No]
-
-[Only add additional print notes when necessary.]
+**Material:**
+**Supports:**
 
 ## Installation
 
-[Brief device-specific installation instructions. Mention screw replacement,
-feet removal, orientation, or anything else that isn't obvious.]
-
 ## CAD
 
-[Onshape link, if available]
+https://cad.onshape.com/documents/e6d982047e9a278fe3f14910/w/8a50545e375b66e950502b89/e/c9836fe8b54f796db6128102?renderMode=0&uiState=6a9c27b243c7c216f65a9646
 
 ## Notes
-
-[Optional compatibility notes, limitations, alternate models, etc.]

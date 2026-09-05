@@ -14,7 +14,7 @@ Elecrig mount for the Neural DSP Quad Cortex.
 ## Hardware
 
 **Device attachment:** Original bottom-cover screws  
-**Rubber feet:** [Keep / Remove / N/A]
+**Rubber feet:** Remove
 
 ### Additional device hardware
 
@@ -33,20 +33,13 @@ Elecrig mount for the Neural DSP Quad Cortex.
 
 ## Printing
 
-**Material:** [e.g. PETG]  
-**Supports:** [Yes / No]
-
-[Only add additional print notes when necessary.]
+**Material:**
+**Supports:**
 
 ## Installation
 
-[Brief device-specific installation instructions. Mention screw replacement,
-feet removal, orientation, or anything else that isn't obvious.]
-
 ## CAD
 
-[Onshape link, if available]
+https://cad.onshape.com/documents/e6d982047e9a278fe3f14910/w/8a50545e375b66e950502b89/e/c9836fe8b54f796db6128102?renderMode=0&uiState=6a9c27b243c7c216f65a9646
 
 ## Notes
-
-[Optional compatibility notes, limitations, alternate models, etc.]
