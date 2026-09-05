@@ -41,3 +41,5 @@ Elecrig mount for the Boss EV-30 FV-30 PW-3.
 ## CAD
 
 https://cad.onshape.com/documents/e6d982047e9a278fe3f14910/w/8a50545e375b66e950502b89/e/91eb7fc5b8587d6b223b5cd1?renderMode=0&uiState=6a9c2bcd43c7c216f65ab1ab
+
+## Notes

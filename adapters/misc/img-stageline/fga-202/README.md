@@ -43,3 +43,5 @@ Remove rubber feet, then attach the brackets with the original screws
 ## CAD
 
 https://cad.onshape.com/documents/e6d982047e9a278fe3f14910/w/8a50545e375b66e950502b89/e/bf507b35f82c9b6e82056bd3?renderMode=0&uiState=6a9c2bf943c7c216f65ab257
+
+## Notes

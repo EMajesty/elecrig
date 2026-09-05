@@ -45,3 +45,5 @@ Install mount pieces under the top panel bolts
 ## CAD
 
 https://cad.onshape.com/documents/e6d982047e9a278fe3f14910/w/8a50545e375b66e950502b89/e/7ee868753980821126ad0568?renderMode=0&uiState=6a9c2bbc43c7c216f65ab187
+
+## Notes
