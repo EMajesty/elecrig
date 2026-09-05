@@ -13,7 +13,7 @@ Elecrig mount for the Boss EV-30 FV-30 PW-3.
 
 ## Hardware
 
-**Device attachment:** Original screws
+**Device attachment:** Original screws  
 **Rubber feet:** Remove
 
 ### Additional device hardware

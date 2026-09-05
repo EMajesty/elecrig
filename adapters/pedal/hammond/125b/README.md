@@ -13,7 +13,7 @@ Elecrig mount for the Hammond 125B.
 
 ## Hardware
 
-**Device attachment:** Original screws
+**Device attachment:** Original screws  
 **Rubber feet:** Depends on the pedal
 
 ### Additional device hardware

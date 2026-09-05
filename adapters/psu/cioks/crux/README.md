@@ -13,7 +13,7 @@ Elecrig mount for the Cioks Crux.
 
 ## Hardware
 
-**Device attachment:** Additional screws
+**Device attachment:** Additional screws  
 **Rubber feet:** N/A
 
 ### Additional device hardware

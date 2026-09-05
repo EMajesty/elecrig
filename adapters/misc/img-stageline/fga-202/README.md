@@ -13,7 +13,7 @@ Elecrig mount for the IMG Stageline FGA-202.
 
 ## Hardware
 
-**Device attachment:** Original screws
+**Device attachment:** Original screws  
 **Rubber feet:** Remove
 
 ### Additional device hardware

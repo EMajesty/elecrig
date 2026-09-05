@@ -13,7 +13,7 @@ Elecrig mount for the Digitech Whammy V.
 
 ## Hardware
 
-**Device attachment:** Original screws
+**Device attachment:** Original screws  
 **Rubber feet:** Remove
 
 ### Additional device hardware

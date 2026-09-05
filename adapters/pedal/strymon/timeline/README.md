@@ -13,7 +13,7 @@ Elecrig mount for the Strymon Timeline.
 
 ## Hardware
 
-**Device attachment:** Original screws
+**Device attachment:** Original screws  
 **Rubber feet:** [Keep / Remove / N/A]
 
 ### Additional device hardware

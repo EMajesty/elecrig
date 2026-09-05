@@ -13,7 +13,7 @@ Elecrig mount for the Eventide Space.
 
 ## Hardware
 
-**Device attachment:** Original screws
+**Device attachment:** Original screws  
 **Rubber feet:** Keep
 
 ### Additional device hardware

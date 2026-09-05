@@ -13,7 +13,7 @@ Elecrig mount for the Sennheiser EM 10.
 
 ## Hardware
 
-**Device attachment:** Additional bolts 
+**Device attachment:** Additional bolts  
 **Rubber feet:** Keep
 
 ### Additional device hardware
