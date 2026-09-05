@@ -5,7 +5,6 @@ General Elecrig accessories belong here.
 Examples:
 
 - cable clips
-- PSU mounts
 - tier supports
 - hinged deck hardware
 - handles
