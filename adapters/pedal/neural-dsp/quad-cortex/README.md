@@ -40,6 +40,6 @@ Elecrig mount for the Neural DSP Quad Cortex.
 
 ## CAD
 
-https://cad.onshape.com/documents/e6d982047e9a278fe3f14910/w/8a50545e375b66e950502b89/e/c9836fe8b54f796db6128102?renderMode=0&uiState=6a9c27b243c7c216f65a9646
+https://cad.onshape.com/documents/e6d982047e9a278fe3f14910/w/8a50545e375b66e950502b89/e/339f10370a98cb644ed4a976?renderMode=0&uiState=6a9c2b6543c7c216f65aafad
 
 ## Notes

@@ -42,4 +42,4 @@ Mounts horizontally.
 
 ## CAD
 
-https://cad.onshape.com/documents/e6d982047e9a278fe3f14910/w/8a50545e375b66e950502b89/e/c9836fe8b54f796db6128102?renderMode=0&uiState=6a9c27b243c7c216f65a9646
+https://cad.onshape.com/documents/e6d982047e9a278fe3f14910/w/8a50545e375b66e950502b89/e/a6901ba3325bbf756d07ea59?renderMode=0&uiState=6a9c2b0543c7c216f65aae1c
